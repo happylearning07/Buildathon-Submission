@@ -1,3 +1,6 @@
+
+<img width="1894" height="878" alt="image" src="https://github.com/user-attachments/assets/3a8f7ea5-a81e-446c-9c2a-7fa1f34feeae" />
+
 # V.A.I.D. (Virtual AI Doctor) - The Reactive Agent Edition
 
 **V.A.I.D.** is a production-oriented medical AI agent designed to overcome the "static knowledge" limitations of traditional Transformers. Built for the **Synaptix Frontier AI Hackathon (Track 1)**, it utilizes the **Pathway Streaming Engine** to maintain a live, continuous-learning knowledge base that reacts to new medical data in real-time.
@@ -49,12 +52,15 @@ docker run -p 8000:8000 --env-file .env medical-brain
 python gradio_app.py
 ```
 
-🔮 Future Roadmap: 
+## 5.🔮 Future Roadmap: 
 BDH IntegrationV.A.I.D. is designed to transition from RAG-based retrieval to Hebbian-based memory dynamics using the Dragon Hatchling (BDH) architecture
 
 1. This shift will enable:Linear Attention $O(T)$: Reasoning across entire patient life histories without the quadratic memory ceiling of Transformers
    
 2. Internalized Memory: Moving from "searching" to "remembering" via synaptic plasticity
 
-### 5. Proposal Link
+### 6. Proposal Link
 https://drive.google.com/file/d/1gmR0fbG1JWdgAN74dOFgA73q8aZGmOFi/view?usp=sharing
+
+### 7. Video Link
+https://drive.google.com/file/d/1FQF9b0WK9eF5Nn9mPyg_29YnLZ4yFfmi/view?usp=sharing
